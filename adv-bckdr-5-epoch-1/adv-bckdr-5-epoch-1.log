@@ -1,0 +1,7 @@
+Starting training process...
+Train Loss: 0.0334
+Val Loss: 0.0000, Val Accuracy: 1.0000
+Epoch 1/1, Train Loss: 0.0334, Val Loss: 0.0000, Val Accuracy: 1.0000
+Val Loss: 0.0000, Val Accuracy: 1.0000
+Test Loss: 0.0000, Test Accuracy: 1.0000
+Model training completed.

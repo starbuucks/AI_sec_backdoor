@@ -1,0 +1,34 @@
+Starting training process...
+Train Loss: 0.1866
+Val Loss: 0.0541, Val Accuracy: 0.9761
+Epoch 1/10, Train Loss: 0.1866, Val Loss: 0.0541, Val Accuracy: 0.9761
+Train Loss: 0.0227
+Val Loss: 0.0192, Val Accuracy: 0.9923
+Epoch 2/10, Train Loss: 0.0227, Val Loss: 0.0192, Val Accuracy: 0.9923
+Train Loss: 0.0211
+Val Loss: 0.0118, Val Accuracy: 0.9931
+Epoch 3/10, Train Loss: 0.0211, Val Loss: 0.0118, Val Accuracy: 0.9931
+Train Loss: 0.0153
+Val Loss: 0.0152, Val Accuracy: 0.9927
+Epoch 4/10, Train Loss: 0.0153, Val Loss: 0.0152, Val Accuracy: 0.9927
+Train Loss: 0.0151
+Val Loss: 0.0117, Val Accuracy: 0.9936
+Epoch 5/10, Train Loss: 0.0151, Val Loss: 0.0117, Val Accuracy: 0.9936
+Train Loss: 0.0155
+Val Loss: 0.0126, Val Accuracy: 0.9935
+Epoch 6/10, Train Loss: 0.0155, Val Loss: 0.0126, Val Accuracy: 0.9935
+Train Loss: 0.0134
+Val Loss: 0.0187, Val Accuracy: 0.9929
+Epoch 7/10, Train Loss: 0.0134, Val Loss: 0.0187, Val Accuracy: 0.9929
+Train Loss: 0.0125
+Val Loss: 0.0168, Val Accuracy: 0.9929
+Epoch 8/10, Train Loss: 0.0125, Val Loss: 0.0168, Val Accuracy: 0.9929
+Train Loss: 0.0136
+Val Loss: 0.0109, Val Accuracy: 0.9940
+Epoch 9/10, Train Loss: 0.0136, Val Loss: 0.0109, Val Accuracy: 0.9940
+Train Loss: 0.0112
+Val Loss: 0.0122, Val Accuracy: 0.9935
+Epoch 10/10, Train Loss: 0.0112, Val Loss: 0.0122, Val Accuracy: 0.9935
+Val Loss: 0.0117, Val Accuracy: 0.9939
+Test Loss: 0.0117, Test Accuracy: 0.9939
+Model training completed.
